@@ -4,7 +4,9 @@ This document provides an overview of logging in our Java project, which uses JS
 
 ## 1. What is Logging?
 
-Logging is the process of recording messages or information about the application's execution. These logs can include:
+Logging is the process of recording messages or information about the application's execution.
+complete tracing information  of the application to record the critical failure if occur in am application
+These logs can include:
 
 - Error messages: Indicate issues or failures in the application.
 - Informational messages: Provide general information about the application's state.
